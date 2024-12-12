@@ -1,0 +1,2 @@
+- **Reference ⬇️**
+  - [Loaders](https://loading.io/pattern/)
